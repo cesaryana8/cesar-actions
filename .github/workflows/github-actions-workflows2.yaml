@@ -5,5 +5,5 @@ jobs:
   Job-Workflow:
     runs-on: ubuntu-latest
     steps:
-      -name: Action 1
+      - name: Action 1
         run: echo "Action 1 Workflow"
